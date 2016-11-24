@@ -1,2 +1,3 @@
 # flex-list
-A simple list using flex properties
+A simple bootstrap list using flex properties.
+Demo on [CodePen](http://codepen.io/wasa/pen/bBRpxZ).
