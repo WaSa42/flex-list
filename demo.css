@@ -1,0 +1,45 @@
+body
+{
+    background: #333;
+}
+
+.demo
+{
+    position: absolute;
+    z-index: 3;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    min-height: 100%;
+
+    text-align: center;
+
+    background: #333;
+}
+
+.demo > header
+{
+    color: #fafafa;
+    background: #444;
+}
+
+.demo > header small,
+.demo > header a
+{
+    color: #ccc;
+}
+
+.demo > header i.fa-times
+{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+
+    cursor: pointer;
+}
+
+.demo > header i.fa-times:hover
+{
+    color: #000;
+}

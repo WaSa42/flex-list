@@ -1,0 +1,27 @@
+{
+  "name": "flex-list",
+  "homepage": "https://github.com/WaSa42/flex-list",
+  "authors": [
+    "Nicolas Rouvière <nicolasrouviere6@gmail.com>"
+  ],
+  "description": "Bootstrap list using flex properties.",
+  "main": "dist/flex-list.css",
+  "keywords": [
+    "list",
+    "bootstrap",
+    "flex",
+    "responsive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "components-font-awesome": "^4.7.0"
+  }
+}
